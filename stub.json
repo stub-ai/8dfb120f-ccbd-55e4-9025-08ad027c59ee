@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"generate the code for a chrome extension that makes a call to openai when the user uses CTRL + Q and sends the input message to the API.\nYou have the attached files so far, create all of the files","md5":"b077ea163e99cec86c68d27c779274ed"}]}
